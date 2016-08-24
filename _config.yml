@@ -27,19 +27,19 @@ social:
   - title: github
     url: http://github.com/evangelistcollective
   - title: twitter
-    url: https://twitter.com/mjbrender/lists/wade
+    url: https://twitter.com/pinkyswearing/lists/developer-evangelists
 
 
 # Postal address (add as many lines as necessary)
 address:
   - line: The closest airport to
-  - line: San Francisco, CA (Mary)
-  - line: Arlington, Tx (Dave)
-  - line: Boston, MA (Matt)
-  - line: Boston, MA (Florian)
+  - line: San Francisco, CA (Mary, Shannon, Laura)
+  - line: Portland, OR (Matt, Meg)
+  - line: Boston, MA (Jonas, Florian)
+  - line: Austin, TX (Ashley)
 
 # Credits content
-credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen and maintained by a group of community builders. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
